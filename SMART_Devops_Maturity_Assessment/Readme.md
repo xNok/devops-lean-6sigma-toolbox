@@ -96,9 +96,11 @@ I organized this exercise as a retrospective exercise. An excellent way to intro
 
 1. Create 3 cards or post-its for each of the 15 items. So 45 cards in total, we want to duplicate so several team members can express themself on each topic.
 
-Based on the previous step, do not hesitate to remove an item you identified as level 1. Those items may create confusion among you team member, and they will not provide meaningful insight.
+> Based on the previous step, do not hesitate to remove an item you identified as level 1. Those items may create confusion among you team member, and they will not provide meaningful insight.
 
 2. Distribute your deck of the card so that everyone has 3 to 4 cards. Giving more cards would result in a more prolonged exercise. You can count on the fact that there is a duplication of each card and that you will repeat the exercise with several teams to converge to a clear picture of the situation.
+
+![](miro-insight-preparation.png)
 
 3. Ask people to write comments on a post-it for each items they have been given - following those rules:
 * You need to write at least 3 post-its per card
@@ -108,14 +110,22 @@ Based on the previous step, do not hesitate to remove an item you identified as 
 
 > Set a 10 min timer for people to create the post-its
 
-4. In turn, ask each team member to stick its post-it on the board following those rules and comment about it:
-* If you mainly wrote red post-it (negative feedback), place it next to the coall
+![](miro-insight.png)
+
+5. On the board or on the wall, draw a diagonal line with a sketch of a a pile of charcoal a the bottom and a diamond at the top.
+
+![](board.png)
+
+6. In turn, ask each team member to stick its post-it on the board following those rules and comment about it:
+* If you mainly wrote red post-it (negative feedback), place it next to the pile of charcoal
 * If you mainly wrote green post-it (positive feedback) place it next to the diamond
 * Otherwise place them in the middle
 
-5. Once everyone places its post-it, you can wrap up the exercise by creating the Radar chart.
+![](board-completed.png)
 
-* Coal count as level 1
+7. Once everyone places its post-it, you can wrap up the exercise by creating the Radar chart.
+
+* Charcoal count as level 1
 * Diamon count as level 3
 * Everything else counts as level 2
 
@@ -147,3 +157,8 @@ the levers to achieve and sustain changes are based on the maturity level:
 
 * [DevOps Maturity Model – From Traditional IT to Complete DevOps](https://www.veritis.com/blog/meet-full-devops-potential-with-devops-maturity-model/#:~:text=By%20definition%2C%20DevOps%20Maturity%20is,crucial%20to%20achieving%20DevOps%20maturity.)
 * [BENEFITS OF SMART MATURITY ASSESSMENT](https://lean-analytics.org/smart-maturity-assessment/)
+* [40 ideas to spice up your retrospective](https://agilestrides.com/blog/40-ideas-to-spice-up-your-retrospective/)
+
+## Images:
+* [Coal cart by Pause08 from the Noun Project](https://thenounproject.com/term/coal-cart/1832977/)
+* <a href="https://iconscout.com/icons/diamond" target="_blank">Diamond Icon</a> by <a href="https://iconscout.com/contributors/ravindra-kalkani">Ravindra Kalkani</a> on <a href="https://iconscout.com">Iconscout</a>
