@@ -71,18 +71,18 @@ As the evaluator (i.e. DevOps evangelist), it is not your role to tell teams the
 
 ### Step 1: Team Lead and Product Owner Interviews
 
-In the first phase, gathering an initial feed back is essential it is the catalyst for improving people's mind set and empowering with new techiniques. **Tech lead** most likely already have an opinion on the improvements they would like to implement. On ther oter hand **Product Owners** need to be aware of the best practices in terms of product development. They also need to understand why they should dedicate some development time to improve some technical aspects. They need to understand the business value of the proposed practices in the product development cycle.
+In the first phase, gathering initial feedback is essential. It is the catalyst for improving people's mindsets and empowering them with new techniques. **Tech lead** most likely already have an opinion on the improvements they would like to implement. On the other hand, **Product Owners** need to be aware of product development's best practices. They also need to understand why they should dedicate some development time to improve some technical aspects. They need to understand the business value of the proposed practices in the product development cycle.
 
-This is your chance to bring the business, the technologies and the operation on the same page.
+This is your chance to bring the business, the technologies, and the operation on the same page.
 
 During the interview:
 
 * Explain what `SMART Maturity assessment` is.
 * Review each of the 15 items and try to place them in each of the maturity levels (1 to 5)
 * Each time, open the conversation to gain as much insight as possible. And remember the planning step of the Improvement Kata model:
-   * Understand the direction or change - For instance ask: What is Canary deployment? What is the value of it? 
+   * Understand the direction or change - For instance, ask: What is Canary deployment? What is the value of it? 
    * Grasp the current situation - For example: What do we do concerning Version control? What can we improve? Is there a blocker that stops us from implementing improvements? Do we need to do more research on the topic to understand the best practices on the market?
-   * Establish the following target condition - Do we have interest in getting better on that item? Do we have a use case for it? Do we have a project that would immediatly benefit from it?
+   * Establish the following target condition - Do we have interest in getting better on that item? Do we have a use case for it? Do we have a project that would immediately benefit from it?
 
 > Don't be afraid of admitting that you are at a maturity level 1 (Start). 
 
@@ -98,46 +98,46 @@ I organized this exercise as a retrospective exercise. An excellent way to intro
 
 Based on the previous step, do not hesitate to remove an item you identified as level 1. Those items may create confusion among you team member, and they will not provide meaningful insight.
 
-2. Distribute your deck of card so that everyone has 3 to 4 cards. Giving more cards would result in a more prolonged exercise. You can count on the fact that there is a duplication of each card and that you will repeat the exercise with several teams to converge to a clear picture of the situation.
+2. Distribute your deck of the card so that everyone has 3 to 4 cards. Giving more cards would result in a more prolonged exercise. You can count on the fact that there is a duplication of each card and that you will repeat the exercise with several teams to converge to a clear picture of the situation.
 
-3. Ask people to write comments on a post-it for each of the items they have been given following those rules:
-* You need to write at least 3 post-it per card
+3. Ask people to write comments on a post-it for each items they have been given - following those rules:
+* You need to write at least 3 post-its per card
 * You must write positive feedback on green post-it
 * You must write negative feedback on red post-it
-* If you know very little about the card you can write a single post-it that says that you don't know anything about-it or that you know that we did not implement anything yet.
+* If you know very little about the card, you can write a single post-it that says that you don't know anything about it or know that we did not implement anything yet.
 
 > Set a 10 min timer for people to create the post-its
 
-4. In turn ask each team member to stick its post-it on the board following those rules and comment about it:
-* If you wrote mostly red post-it (negative feedback) place it next to the caol
-* If you wrote mostly green post-it (positive feedback) place it next to the diamand
+4. In turn, ask each team member to stick its post-it on the board following those rules and comment about it:
+* If you mainly wrote red post-it (negative feedback), place it next to the coall
+* If you mainly wrote green post-it (positive feedback) place it next to the diamond
 * Otherwise place them in the middle
 
-5. Once everyone place its post-it you can wrappe up the exercise by creating the Radar chart.
+5. Once everyone places its post-it, you can wrap up the exercise by creating the Radar chart.
 
 * Coal count as level 1
-* Diamon count as leve 3
-* Everything else count as level 2
+* Diamon count as level 3
+* Everything else counts as level 2
 
 You can now explain what is `SMART Maturity assessment` and tell them what you will do with all their insight (keep reading, so I tell You what to do with all the post-it collected). 
 
 ### Step 3: Compiling the results
 
-Create a table in your favorite tool (Confluance, Excel, or others). Compile the maturity score for the interview and retrospective exercice. Create an average score accross your organisation, this is your maturity level from wich you will create the final Radar Chart. Report and compile all the insight collected alongside the `SMART Maturity assessment` score. They will be usefull to create your road map.
+Create a table in your favorite tool (Confluence, Excel, or others). Compile the maturity score for the interview and retrospective exercise. Create an average score across your organization; this is your maturity level from which you will create the final Radar Chart. Report and compile all the insight collected alongside the `SMART Maturity assessment` score. They will be helpful to develop your road map.
 
-> Why do we score items between 1 and 3 in the *Step 2* execise and not between 1 and 5?
+> Why do we score items between 1 and 3 in the *Step 2* exercise and not between 1 and 5?
 
-As it is the first time you do the exercise we can assume that you did not yet review any process. Remember that to reach level 4 you need to continuously measures results to implement improvement actions. It may be the case and if some member mentionned in there post-it that you have KPI ready for that item then go ahead your earn your level 4 maturity level for that item (Congratulation). 
+Since it is the first time you do the exercise, we can assume that you did not review any process. Remember that to reach level 4; you need to measure results to implement improvement actions continuously. It may be the case, and if some member mentioned in their post-it that you have KPI ready for that item, then go ahead of your earn your level 4 maturity level for that item (Congratulation). 
 
 ### Step 4: Deciding on a road map
 
-Creating the road map base on SMART is simply to ask: How do I want my Radar Chart in a year from now?
+Creating the road map base on SMART is to ask: How do I want my Radar Chart in a year from now?
 
 the levers to achieve and sustain changes are based on the maturity level:
-* Moving from **S**tart to **M**otivated involves making presentation, creating workshop to promote best practices associated with an item. It could also mean encourage professional training, conferences, or seaching for specific skills in future recrutement.
-* Moving from **M**otivated to **A**pplied requires to some Epic or stories to implement changes.
-* Moving from **A**pplied to **R**eviewed forces you to implement KPIs, document the process, dedicate time to continously review the tols in place.
-* Moving from **R**eviewed to **T**ransformed symbolises that you have established a "Bible" of how you do X in company Y. 
+* Moving from **S**tart to **M**otivated involves making a presentation, creating a workshop to promote best practices associated with an item. It could also mean you need to encourage professional training, conferences, or searching for specific skills in future recruitment.
+* Moving from **M**otivated to **A**pplied requires some Epic or Stories to implement changes.
+* Moving from **A**pplied to **R**eviewed forces you to implement KPIs, document the process, dedicate time to review the tools in place continuously.
+* Moving from **R**eviewed to **T**ransformed symbolizes that you have established a "Bible" of how you do X in company Y. 
 
 ## Final thought
 
