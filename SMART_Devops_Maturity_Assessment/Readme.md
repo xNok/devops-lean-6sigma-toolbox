@@ -116,10 +116,17 @@ I organized this exercise as a retrospective exercise. An excellent way to intro
 
 ![](board.png)
 
-6. In turn, ask each team member to stick its post-it on the board following those rules and comment about it:
-* If you mainly wrote red post-it (negative feedback), place it next to the pile of charcoal
-* If you mainly wrote green post-it (positive feedback) place it next to the diamond
-* Otherwise place them in the middle
+6. The general idea is to order
+
+In turn, Ask the participants to stick cards and post-its on the line. Ask them: 
+
+> Do you shine like diamond or unrefined like coal?
+
+As a general rule: 
+* If you mainly wrote **red** post-it (negative feedback), you should be closer to the pile of charcoal
+* If you mainly wrote **green** post-it (positive feedback), you should be closer to next to the diamond
+
+Discuss with the group about the items when laying down the post-its.
 
 ![](board-completed.png)
 
@@ -128,6 +135,8 @@ I organized this exercise as a retrospective exercise. An excellent way to intro
 * Charcoal count as level 1
 * Diamon count as level 3
 * Everything else counts as level 2
+
+![]()
 
 You can now explain what is `SMART Maturity assessment` and tell them what you will do with all their insight (keep reading, so I tell You what to do with all the post-it collected). 
 
