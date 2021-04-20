@@ -73,7 +73,7 @@ As the evaluator (i.e. DevOps evangelist), it is not your role to tell teams the
 
 In the first phase, gathering initial feedback is essential. It is the catalyst for improving people's mindsets and empowering them with new techniques. **Tech lead** most likely already have an opinion on the improvements they would like to implement. On the other hand, **Product Owners** need to be aware of product development's best practices. They also need to understand why they should dedicate some development time to improve some technical aspects. They need to understand the business value of the proposed practices in the product development cycle.
 
-This is your chance to bring the business, the technologies, and the operation on the same page.
+It is your chance to bring the business, the technologies, and the operation on the same page.
 
 During the interview:
 
@@ -110,11 +110,11 @@ I organized this exercise as a retrospective exercise. An excellent way to intro
 
 > Set a 10 min timer for people to create the post-its
 
-![](miro-insight.png)
+![](miro-insight.PNG)
 
 5. On the board or on the wall, draw a diagonal line with a sketch of a a pile of charcoal a the bottom and a diamond at the top.
 
-![](board.png)
+![](board.PNG)
 
 6. The general idea is to order
 
@@ -128,7 +128,7 @@ As a general rule:
 
 Discuss with the group about the items when laying down the post-its.
 
-![](board-completed.png)
+![](board-completed.PNG)
 
 7. Once everyone places its post-it, you can wrap up the exercise by creating the Radar chart.
 
@@ -136,7 +136,7 @@ Discuss with the group about the items when laying down the post-its.
 * Diamon count as level 3
 * Everything else counts as level 2
 
-![]()
+![](spider.png)
 
 You can now explain what is `SMART Maturity assessment` and tell them what you will do with all their insight (keep reading, so I tell You what to do with all the post-it collected). 
 
