@@ -1,6 +1,6 @@
 # SMART DevOps Maturity assessment
 
-Last year I was tasked with creating a roadmap to improve further the DevOps Agile Maturity of our product development teams. I needed to assess how far we went in our transformation journey and decide what more to accomplish. Therefore I needed a tool or methodology to perform the evaluation and gather feedback from everyone.
+Last year, I was tasked with creating a roadmap to raise the DevOps Maturity of our product development teams. I needed to assess how far we went in our transformation journey and decide what more to accomplish. Therefore I needed a tool or methodology to perform the evaluation and gather feedback from everyone.
 
 With my Industrial Engineering background, I decided to repurpose a Lean Manufacturing methodology that should enable me to complete the task. Lean Six Sigma practitioners have been working on a toolbox to evaluate the adoption of their practices for the past three decades. Without a dought some lessons to learn from that.
 
