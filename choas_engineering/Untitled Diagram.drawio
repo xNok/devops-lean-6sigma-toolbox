@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-19T15:35:58.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="SP48iP3ltfd69TjIsF3L" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-19T15:41:47.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="g1vstWOtUPJvRS0ompMr" version="14.6.13" type="github">
   <diagram id="6f8bvQ2bZQIakRe9ymIn" name="Page-1">
     <mxGraphModel dx="1117" dy="1723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
         <mxCell id="_pkYCO4F-TXkArhnfCwB-19" value="Region A" style="swimlane;horizontal=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-10" width="200" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="_pkYCO4F-TXkArhnfCwB-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;" vertex="1" parent="_pkYCO4F-TXkArhnfCwB-19">
+        <mxCell id="_pkYCO4F-TXkArhnfCwB-3" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="_pkYCO4F-TXkArhnfCwB-19">
           <mxGeometry x="60" y="160" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_pkYCO4F-TXkArhnfCwB-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bucket;fillColor=#E05243;gradientColor=none;sketch=1;" vertex="1" parent="_pkYCO4F-TXkArhnfCwB-19">
