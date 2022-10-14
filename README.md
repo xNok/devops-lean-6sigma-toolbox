@@ -20,7 +20,12 @@ For now I will keep updating this page with my latest articles.
 
 ## Articles released on the subject
 
-* [How to Build a “Smarter” DevOps Roadmap — The SMART Maturity Assessment Method](https://adevait.com/devops/smart-maturity-assessment)
+* SMART: [How to Build a “Smarter” DevOps Roadmap — The SMART Maturity Assessment Method](https://adevait.com/devops/smart-maturity-assessment)
+* 5S: [How to Reduce Waste and Increase Productivity in Software Development?](https://faun.pub/how-to-reduce-waste-and-increase-productivity-in-software-development-f333f363f150?sk=a22995ca49b6d109b64f7f41aa9fe32d)
+* VSM: [How to Maximise the Value of your Software Development Process?](https://faun.pub/how-to-maximise-the-value-of-your-software-development-process-91a7667896c9?sk=2c0748bd1c1465e96475d05f794347c3)
+
+## Other related articles
+
 * [Using Continuous Testing in DevOps Workflows](https://earthly.dev/blog/continuous-testing-in-devops/)
 
 
