@@ -28,6 +28,27 @@ For now I will keep updating this page with my latest articles.
 
 * [Using Continuous Testing in DevOps Workflows](https://earthly.dev/blog/continuous-testing-in-devops/)
 
+## Reference list of Lean tools
+
+* [ ] TAKT time 
+* [ ] Pull system (Kanban) 
+* [ ] Continuous flow
+* [ ] Kaizen
+* [ ] Supermarket
+* [ ] Production levelling
+* [ ] Work standardisation
+* [ ] Pacemaker process
+* [ ] Constant work in progress reduction
+* [ ] Single piece flow
+* [ ] FIFO 
+* [ ] Continuous improvement
+* [ ] Heijunka box
+* [ ] Cellular manufacturing
+* [ ] SMED
+* [ ] Total productive maintenance
+* [ ] Just in time
+* [ ] Poka yoke
 
 References:
 [What is Kata](https://www.parkavenuesolutions.com/what-is-kata)
+[A cross-sector review on the use of value stream mapping](https://www.researchgate.net/profile/Xiangyu-Wang-25/publication/315982871_A_cross-sector_review_on_the_use_of_value_stream_mapping/links/611dbf411e95fe241adfe11e/A-cross-sector-review-on-the-use-of-value-stream-mapping.pdf)
